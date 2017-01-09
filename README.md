@@ -9,7 +9,7 @@ Repository - https://github.com/nabeelio/phpVMS/blob/master/license.txt
 ************************************************  
 phpVMS 3 is built on the Codeigniter PHP framework - https://github.com/bcit-ci/CodeIgniter  
 ************************************************  
-Libraries included:  
+Libraries used/included:  
 Requests PHP by Ryan McCue - https://github.com/rmccue/Requests  
 Template by Phil Sturgeon - https://github.com/philsturgeon/codeigniter-template  
 Flexi Auth by Hasey Design - https://github.com/haseydesign/flexi-auth  
@@ -17,6 +17,8 @@ Google Maps 3 by Steve Marks - http://biostall.com/codeigniter-google-maps-v3-ap
 HMVC Module Extensions by Wiredesignz - https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc  
 Ignited Datatables - https://github.com/IgnitedDatatables/Ignited-Datatables  
 ReCaptcha by Google - http://www.google.com/recaptcha  
+Bootstrap 3 - http://getbootstrap.com/  
+Bootstrap themes by Bootswatch - https://bootswatch.com/  
 ************************************************  
 Website - https://phpvms.net  
 Forums - https://forum.phpvms.net  
