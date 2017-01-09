@@ -19,6 +19,7 @@ Ignited Datatables - https://github.com/IgnitedDatatables/Ignited-Datatables
 ReCaptcha by Google - http://www.google.com/recaptcha  
 Bootstrap 3 - http://getbootstrap.com/  
 Bootstrap themes by Bootswatch - https://bootswatch.com/  
+CKEditor - http://ckeditor.com/
 ************************************************  
 Website - https://phpvms.net  
 Forums - https://forum.phpvms.net  
