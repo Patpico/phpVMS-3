@@ -20,6 +20,7 @@ ReCaptcha by Google - http://www.google.com/recaptcha
 Bootstrap 3 - http://getbootstrap.com/  
 Bootstrap themes by Bootswatch - https://bootswatch.com/  
 CKEditor - http://ckeditor.com/
+GoSquared flags - https://github.com/gosquared/flags
 ************************************************  
 Website - https://phpvms.net  
 Forums - https://forum.phpvms.net  
